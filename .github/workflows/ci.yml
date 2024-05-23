@@ -60,4 +60,4 @@ jobs:
         uses: docker/build-push-actions@v5
         with:
           push: true
-          tags: gabsmvb/ci-exemplo
+          tags: gabsmvb/ci-exemplo:tagname
