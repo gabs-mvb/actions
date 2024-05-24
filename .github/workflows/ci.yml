@@ -61,4 +61,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: clarasalomaofaria/exemplo-actions:latest
+          tags: gabsmvb/ci-example:latest
