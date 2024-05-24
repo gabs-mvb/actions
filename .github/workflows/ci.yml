@@ -61,4 +61,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: gabsmvb/ci-exemplo:v0.1
+          tags: gabsmvb/gabsmvb/ci-example:latest
